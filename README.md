@@ -123,6 +123,6 @@ public Exit() {
 }
 <br>
 #实验截图
-![image](https://github.com/300tty/java/blob/master/%E6%8D%95%E8%8E%B7234245.jpg)\
+![image](https://github.com/300tty/java-/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191208225654.jpg)\
 #实验心得
 <br>这次实验是完善前几次实验，将他们结合起来，并且做出处理让他能使用更加灵活，几百行的代码很多很容易出错，很花时间而且也很难，但是需要自己去研究去解决。<br>
