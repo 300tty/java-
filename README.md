@@ -14,11 +14,9 @@
 6、本次实验是综合性实验，在40%的实验成绩中占比最大，望同学们认真对待。
 <br>
 #流程图
-![image](https://github.com/300tty/java/blob/master/%E6%8D%95%E8%8E%B711111.jpg)
-
+![image](https://github.com/300tty/java-/blob/master/%E6%8D%95%E8%8E%B73.PNG)
 #实验过程：
 <br> 设计gui窗口后进行逻辑设计，并且做出异常处理，并写出读取程序，最后调试代码将他们结合在一起并且能成功运行。<br>
-
 #核心代码：
 <br>
 public Exit() {
